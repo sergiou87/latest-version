@@ -1,15 +1,9 @@
 {
-	"name": "latest-version",
+	"name": "latest-version-forked",
 	"version": "9.0.0",
 	"description": "Get the latest version of an npm package",
 	"license": "MIT",
-	"repository": "sindresorhus/latest-version",
-	"funding": "https://github.com/sponsors/sindresorhus",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
-	},
+	"repository": "sergiou87/latest-version",
 	"type": "module",
 	"exports": {
 		"types": "./index.d.ts",
